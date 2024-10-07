@@ -41,3 +41,4 @@ public class Contact {
         return fullName + " | " + phoneNumber + " | " + email;
     }
 }
+
